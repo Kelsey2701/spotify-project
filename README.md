@@ -12,7 +12,7 @@ Throughout the entire series, we'll:
 
 1. **Perform Exploratory Data Analysis (EDA)** in a Jupyter Notebook using Pandas, Numpy, Matplotlib, and other commonly-used libraries.
 
-2. **Build a Decision Tree classifier** using scikit-learn.
+2. **Build a Decision Tree Regressor** using scikit-learn.
 
 4. **Build an Artificial Neural Network classifier** by leveraging Python, TensorFlow, and Keras.
 

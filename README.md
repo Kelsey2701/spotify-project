@@ -2,9 +2,7 @@
 
 Collaborators: Sania Sufi, Valeria Briones, Maryam Shaaban, Joseph Devito and Kelsey Sniatynsky 
 
-Datasets: 
-https://www.kaggle.com/datasets/geomack/spotifyclassification
-https://www.kaggle.com/code/vatsalmavani/music-recommendation-system-using-spotify-dataset
+Datasets: https://www.kaggle.com/datasets/geomack/spotifyclassification & https://www.kaggle.com/code/vatsalmavani/music-recommendation-system-using-spotify-dataset
 
 ## Overview
 In this project, we will explore machine learning techniques to build classifiers for determining whether we might like a song based on its attributes, which are provided by the Spotify API. We will use an existing dataset from Kaggle to perform exploratory data analysis and implement various classifiers.
